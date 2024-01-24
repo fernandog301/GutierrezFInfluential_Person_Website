@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Just Me';
+    src: url('../Fonts/JustMeAgainDownHere-Regular.ttf');
+}
