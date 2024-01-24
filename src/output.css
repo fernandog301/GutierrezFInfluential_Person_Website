@@ -768,16 +768,8 @@ video {
   width: 100%;
 }
 
-.w-6 {
-  width: 1.5rem;
-}
-
 .max-w-screen-xl {
   max-width: 1280px;
-}
-
-.max-w-none {
-  max-width: none;
 }
 
 .flex-1 {
@@ -1060,11 +1052,6 @@ video {
   vertical-align: middle;
 }
 
-.text-6xl {
-  font-size: 3.75rem;
-  line-height: 1;
-}
-
 .text-lg {
   font-size: 1.125rem;
   line-height: 1.75rem;
@@ -1114,6 +1101,10 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.underline {
+  text-decoration-line: underline;
 }
 
 .opacity-0 {
